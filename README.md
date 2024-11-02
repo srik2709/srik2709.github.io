@@ -1,2 +1,2 @@
 # srik2709.github.io
-![Alt Text](/ishikawa.jpg)
+![My First Ishikawa](./ishikawa.jpg)
