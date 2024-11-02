@@ -1,2 +1,2 @@
-# srik2709.github.io
+# About me
 ![My First Ishikawa](Ishikawa.png)
