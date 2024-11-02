@@ -5,3 +5,5 @@ I just made my 1st Ishikawa, [click here](Ishikawa.png) to see it.
 
 [This](images/2024_to_2025.pdf) is my academic calendar
 
+[Checkout](fitness/) for my 2025 fitness 
+
