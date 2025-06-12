@@ -1,2 +1,2 @@
-[Jan](IMG12345.jpg)
+[Jan](images/IMG12345.jpg)
 
